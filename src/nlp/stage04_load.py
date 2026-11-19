@@ -5,6 +5,8 @@ NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
 Source:  DataFrame (in this case, a Pandas DataFrame, change if using polars)
 
 Sink: CSV file
+# Ronni
+# 2026-11
 
 Notes:
 - This file should not require modification unless you change the DataFrame library.

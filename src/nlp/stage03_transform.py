@@ -4,6 +4,8 @@
 
 Source: validated BeautifulSoup object
 Sink: Pandas DataFrame
+# Ronni
+# 2026-11
 
 NOTE: We use Pandas here to contrast with Polars (from Module 4).
 You may use Polars or another library if you prefer:

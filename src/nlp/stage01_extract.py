@@ -4,6 +4,8 @@ NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
 
 Source: HTML page at configured URL
 Sink:   Raw HTML file at RAW_HTML_PATH
+# Ronni
+# 2026-11
 
 The Extract stage is responsible for retrieving data
 from the source (in this case, an HTML page)

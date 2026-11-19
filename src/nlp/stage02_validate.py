@@ -4,6 +4,8 @@
 
 Source: Raw HTML string
 Sink:   BeautifulSoup object (in memory)
+# Ronni
+# 2026-11
 
 Purpose
 
